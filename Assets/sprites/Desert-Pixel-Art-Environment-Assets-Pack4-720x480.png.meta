@@ -1,0 +1,1628 @@
+fileFormatVersion: 2
+guid: 32e55836c57a34599885a954d4a25bed
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4094176069323231944
+    second: Desert-Pixel-Art-Environment-Assets-Pack4-720x480_0
+  - first:
+      213: -383757356485346288
+    second: Desert-Pixel-Art-Environment-Assets-Pack4-720x480_1
+  - first:
+      213: 6731679931525544019
+    second: Desert-Pixel-Art-Environment-Assets-Pack4-720x480_2
+  - first:
+      213: 1282356091168751562
+    second: Desert-Pixel-Art-Environment-Assets-Pack4-720x480_3
+  - first:
+      213: -4884906134716061729
+    second: Desert-Pixel-Art-Environment-Assets-Pack4-720x480_4
+  - first:
+      213: -7777102518506626111
+    second: Desert-Pixel-Art-Environment-Assets-Pack4-720x480_5
+  - first:
+      213: 1033007374764121370
+    second: Desert-Pixel-Art-Environment-Assets-Pack4-720x480_6
+  - first:
+      213: 5277082127822743229
+    second: Desert-Pixel-Art-Environment-Assets-Pack4-720x480_7
+  - first:
+      213: -8955204843286564837
+    second: Desert-Pixel-Art-Environment-Assets-Pack4-720x480_8
+  - first:
+      213: 7172774245543500896
+    second: Desert-Pixel-Art-Environment-Assets-Pack4-720x480_9
+  - first:
+      213: -3644942419291903325
+    second: Desert-Pixel-Art-Environment-Assets-Pack4-720x480_10
+  - first:
+      213: -7765209941972864492
+    second: Desert-Pixel-Art-Environment-Assets-Pack4-720x480_11
+  - first:
+      213: -5836912061200963065
+    second: Desert-Pixel-Art-Environment-Assets-Pack4-720x480_12
+  - first:
+      213: -5016532760770886094
+    second: Desert-Pixel-Art-Environment-Assets-Pack4-720x480_13
+  - first:
+      213: -3130377095406168531
+    second: Desert-Pixel-Art-Environment-Assets-Pack4-720x480_14
+  - first:
+      213: -5266646816107387031
+    second: Desert-Pixel-Art-Environment-Assets-Pack4-720x480_15
+  - first:
+      213: 4122024273452599575
+    second: Desert-Pixel-Art-Environment-Assets-Pack4-720x480_16
+  - first:
+      213: 2812227462892426185
+    second: Desert-Pixel-Art-Environment-Assets-Pack4-720x480_17
+  - first:
+      213: -9076008639942777806
+    second: Desert-Pixel-Art-Environment-Assets-Pack4-720x480_18
+  - first:
+      213: -6613494224978340582
+    second: Desert-Pixel-Art-Environment-Assets-Pack4-720x480_19
+  - first:
+      213: -4984326887937429160
+    second: Desert-Pixel-Art-Environment-Assets-Pack4-720x480_20
+  - first:
+      213: 2558109326031319565
+    second: Desert-Pixel-Art-Environment-Assets-Pack4-720x480_21
+  - first:
+      213: -668012536154799157
+    second: Desert-Pixel-Art-Environment-Assets-Pack4-720x480_22
+  - first:
+      213: 700436574847994978
+    second: Desert-Pixel-Art-Environment-Assets-Pack4-720x480_23
+  - first:
+      213: 7605005088133883077
+    second: Desert-Pixel-Art-Environment-Assets-Pack4-720x480_24
+  - first:
+      213: -4498375607581115051
+    second: Desert-Pixel-Art-Environment-Assets-Pack4-720x480_25
+  - first:
+      213: -8941229101328026826
+    second: Desert-Pixel-Art-Environment-Assets-Pack4-720x480_26
+  - first:
+      213: 945030340365036201
+    second: Desert-Pixel-Art-Environment-Assets-Pack4-720x480_27
+  - first:
+      213: 8596178372392947378
+    second: Desert-Pixel-Art-Environment-Assets-Pack4-720x480_28
+  - first:
+      213: 7733968688594592567
+    second: Desert-Pixel-Art-Environment-Assets-Pack4-720x480_29
+  - first:
+      213: -1345040214426255828
+    second: Desert-Pixel-Art-Environment-Assets-Pack4-720x480_30
+  - first:
+      213: -7200733291893814115
+    second: Desert-Pixel-Art-Environment-Assets-Pack4-720x480_31
+  - first:
+      213: 561314355168510549
+    second: Desert-Pixel-Art-Environment-Assets-Pack4-720x480_32
+  - first:
+      213: 4395504216860623736
+    second: Desert-Pixel-Art-Environment-Assets-Pack4-720x480_33
+  - first:
+      213: -1212062905689187947
+    second: Desert-Pixel-Art-Environment-Assets-Pack4-720x480_34
+  - first:
+      213: 8421273034379489970
+    second: Desert-Pixel-Art-Environment-Assets-Pack4-720x480_35
+  - first:
+      213: 2273995576571636126
+    second: Desert-Pixel-Art-Environment-Assets-Pack4-720x480_36
+  - first:
+      213: 9101242955437523224
+    second: Desert-Pixel-Art-Environment-Assets-Pack4-720x480_37
+  - first:
+      213: -5145312679266733541
+    second: Desert-Pixel-Art-Environment-Assets-Pack4-720x480_38
+  - first:
+      213: -1826962558295203061
+    second: Desert-Pixel-Art-Environment-Assets-Pack4-720x480_39
+  - first:
+      213: -1251367610373132486
+    second: Desert-Pixel-Art-Environment-Assets-Pack4-720x480_40
+  - first:
+      213: -6414647316528283054
+    second: Desert-Pixel-Art-Environment-Assets-Pack4-720x480_41
+  - first:
+      213: 2625454633473549162
+    second: Desert-Pixel-Art-Environment-Assets-Pack4-720x480_42
+  - first:
+      213: 222665146075979700
+    second: Desert-Pixel-Art-Environment-Assets-Pack4-720x480_43
+  - first:
+      213: 1025434440203559395
+    second: Desert-Pixel-Art-Environment-Assets-Pack4-720x480_44
+  - first:
+      213: 2213279480690343836
+    second: Desert-Pixel-Art-Environment-Assets-Pack4-720x480_45
+  - first:
+      213: -338314548619486383
+    second: Desert-Pixel-Art-Environment-Assets-Pack4-720x480_46
+  - first:
+      213: -5394709994274290691
+    second: Desert-Pixel-Art-Environment-Assets-Pack4-720x480_47
+  - first:
+      213: 1837264561694125858
+    second: Desert-Pixel-Art-Environment-Assets-Pack4-720x480_48
+  - first:
+      213: -7588252896782494219
+    second: Desert-Pixel-Art-Environment-Assets-Pack4-720x480_49
+  - first:
+      213: -8934590833977295249
+    second: Desert-Pixel-Art-Environment-Assets-Pack4-720x480_50
+  - first:
+      213: 1960035360429951899
+    second: Desert-Pixel-Art-Environment-Assets-Pack4-720x480_51
+  - first:
+      213: 1206717997763100499
+    second: Desert-Pixel-Art-Environment-Assets-Pack4-720x480_52
+  - first:
+      213: -8418902600179012258
+    second: Desert-Pixel-Art-Environment-Assets-Pack4-720x480_53
+  - first:
+      213: 4870323326099894082
+    second: Desert-Pixel-Art-Environment-Assets-Pack4-720x480_54
+  - first:
+      213: -361159100489859756
+    second: Desert-Pixel-Art-Environment-Assets-Pack4-720x480_55
+  - first:
+      213: 3024947253135712667
+    second: Desert-Pixel-Art-Environment-Assets-Pack4-720x480_56
+  - first:
+      213: 7496817080073142353
+    second: Desert-Pixel-Art-Environment-Assets-Pack4-720x480_57
+  - first:
+      213: 109265808971206867
+    second: Desert-Pixel-Art-Environment-Assets-Pack4-720x480_58
+  - first:
+      213: -936552706349039395
+    second: Desert-Pixel-Art-Environment-Assets-Pack4-720x480_59
+  - first:
+      213: 3676782074221867339
+    second: Desert-Pixel-Art-Environment-Assets-Pack4-720x480_60
+  - first:
+      213: -1244007680810752615
+    second: Desert-Pixel-Art-Environment-Assets-Pack4-720x480_61
+  - first:
+      213: 6552555684157706545
+    second: Desert-Pixel-Art-Environment-Assets-Pack4-720x480_62
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Desert-Pixel-Art-Environment-Assets-Pack4-720x480_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 376
+        width: 74
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83d651c8e809e27c0800000000000000
+      internalID: -4094176069323231944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert-Pixel-Art-Environment-Assets-Pack4-720x480_1
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 384
+        width: 53
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01c7fbea7be9caaf0800000000000000
+      internalID: -383757356485346288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert-Pixel-Art-Environment-Assets-Pack4-720x480_2
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 384
+        width: 42
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 358b4345b3bbb6d50800000000000000
+      internalID: 6731679931525544019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert-Pixel-Art-Environment-Assets-Pack4-720x480_3
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 384
+        width: 36
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acffba91218dbc110800000000000000
+      internalID: 1282356091168751562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert-Pixel-Art-Environment-Assets-Pack4-720x480_4
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 384
+        width: 48
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd76f1770c3553cb0800000000000000
+      internalID: -4884906134716061729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert-Pixel-Art-Environment-Assets-Pack4-720x480_5
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 384
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c3ed9ad67e221490800000000000000
+      internalID: -7777102518506626111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert-Pixel-Art-Environment-Assets-Pack4-720x480_6
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1d9c27fbbaf55e00800000000000000
+      internalID: 1033007374764121370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert-Pixel-Art-Environment-Assets-Pack4-720x480_7
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 384
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db6ef6f6c36fb3940800000000000000
+      internalID: 5277082127822743229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert-Pixel-Art-Environment-Assets-Pack4-720x480_8
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 384
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b10fb0944a8b8b380800000000000000
+      internalID: -8955204843286564837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert-Pixel-Art-Environment-Assets-Pack4-720x480_9
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 384
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06cd0bf5c20da8360800000000000000
+      internalID: 7172774245543500896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert-Pixel-Art-Environment-Assets-Pack4-720x480_10
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 384
+        width: 75
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aa6a5f6e209a6dc0800000000000000
+      internalID: -3644942419291903325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert-Pixel-Art-Environment-Assets-Pack4-720x480_11
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 412306a13be6c3490800000000000000
+      internalID: -7765209941972864492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert-Pixel-Art-Environment-Assets-Pack4-720x480_12
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 320
+        width: 70
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70a6ce6d76f1ffea0800000000000000
+      internalID: -5836912061200963065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert-Pixel-Art-Environment-Assets-Pack4-720x480_13
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 332
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23644266802b16ab0800000000000000
+      internalID: -5016532760770886094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert-Pixel-Art-Environment-Assets-Pack4-720x480_14
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 320
+        width: 128
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d26db4ffd9aae84d0800000000000000
+      internalID: -3130377095406168531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert-Pixel-Art-Environment-Assets-Pack4-720x480_15
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 320
+        width: 80
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9672a78ef9c19e6b0800000000000000
+      internalID: -5266646816107387031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert-Pixel-Art-Environment-Assets-Pack4-720x480_16
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 320
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7190eaebc3f543930800000000000000
+      internalID: 4122024273452599575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert-Pixel-Art-Environment-Assets-Pack4-720x480_17
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 320
+        width: 162
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c31d494af9070720800000000000000
+      internalID: 2812227462892426185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert-Pixel-Art-Environment-Assets-Pack4-720x480_18
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 320
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 234a5dd8a3a8b0280800000000000000
+      internalID: -9076008639942777806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert-Pixel-Art-Environment-Assets-Pack4-720x480_19
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 243
+        width: 112
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a15911cca062834a0800000000000000
+      internalID: -6613494224978340582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert-Pixel-Art-Environment-Assets-Pack4-720x480_20
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 160
+        width: 66
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 851bf008a1d14dab0800000000000000
+      internalID: -4984326887937429160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert-Pixel-Art-Environment-Assets-Pack4-720x480_21
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 240
+        width: 84
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d02f5bae0ea308320800000000000000
+      internalID: 2558109326031319565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert-Pixel-Art-Environment-Assets-Pack4-720x480_22
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 240
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc34cfc332ebab6f0800000000000000
+      internalID: -668012536154799157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert-Pixel-Art-Environment-Assets-Pack4-720x480_23
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 237
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26c818f8a5378b900800000000000000
+      internalID: 700436574847994978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert-Pixel-Art-Environment-Assets-Pack4-720x480_24
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 240
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c42249a5d76a8960800000000000000
+      internalID: 7605005088133883077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert-Pixel-Art-Environment-Assets-Pack4-720x480_25
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 240
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55d78d3e73f8291c0800000000000000
+      internalID: -4498375607581115051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert-Pixel-Art-Environment-Assets-Pack4-720x480_26
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 160
+        width: 51
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63335f7418f5ae380800000000000000
+      internalID: -8941229101328026826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert-Pixel-Art-Environment-Assets-Pack4-720x480_27
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 160
+        width: 39
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aaac6b661c6d1d00800000000000000
+      internalID: 945030340365036201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert-Pixel-Art-Environment-Assets-Pack4-720x480_28
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 160
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2be80686fa2cb4770800000000000000
+      internalID: 8596178372392947378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert-Pixel-Art-Environment-Assets-Pack4-720x480_29
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 180
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 733aca3cb83945b60800000000000000
+      internalID: 7733968688594592567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert-Pixel-Art-Environment-Assets-Pack4-720x480_30
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 160
+        width: 51
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2ef1822d05755de0800000000000000
+      internalID: -1345040214426255828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert-Pixel-Art-Environment-Assets-Pack4-720x480_31
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 160
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9c075ed83bd11c90800000000000000
+      internalID: -7200733291893814115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert-Pixel-Art-Environment-Assets-Pack4-720x480_32
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 160
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 552852b9e603ac700800000000000000
+      internalID: 561314355168510549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert-Pixel-Art-Environment-Assets-Pack4-720x480_33
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 96
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87385befbc7fffc30800000000000000
+      internalID: 4395504216860623736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert-Pixel-Art-Environment-Assets-Pack4-720x480_34
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 102
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 599d7f48533ed2fe0800000000000000
+      internalID: -1212062905689187947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert-Pixel-Art-Environment-Assets-Pack4-720x480_35
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b2f3caf43f5ed470800000000000000
+      internalID: 8421273034379489970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert-Pixel-Art-Environment-Assets-Pack4-720x480_36
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e99ac52cdeade8f10800000000000000
+      internalID: 2273995576571636126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert-Pixel-Art-Environment-Assets-Pack4-720x480_37
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 96
+        width: 80
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 811416d5f3c1e4e70800000000000000
+      internalID: 9101242955437523224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert-Pixel-Art-Environment-Assets-Pack4-720x480_38
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 96
+        width: 39
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b123ef5116d2898b0800000000000000
+      internalID: -5145312679266733541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert-Pixel-Art-Environment-Assets-Pack4-720x480_39
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 96
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0320ee9b3355a6e0800000000000000
+      internalID: -1826962558295203061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert-Pixel-Art-Environment-Assets-Pack4-720x480_40
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 96
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3fa744d9cf32aee0800000000000000
+      internalID: -1251367610373132486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert-Pixel-Art-Environment-Assets-Pack4-720x480_41
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 96
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2524bea70489af6a0800000000000000
+      internalID: -6414647316528283054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert-Pixel-Art-Environment-Assets-Pack4-720x480_42
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 96
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a632812341d7f6420800000000000000
+      internalID: 2625454633473549162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert-Pixel-Art-Environment-Assets-Pack4-720x480_43
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bf18b745c0171300800000000000000
+      internalID: 222665146075979700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert-Pixel-Art-Environment-Assets-Pack4-720x480_44
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 96
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e1e8ccb0331b3e00800000000000000
+      internalID: 1025434440203559395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert-Pixel-Art-Environment-Assets-Pack4-720x480_45
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 104
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9f753316f527be10800000000000000
+      internalID: 2213279480690343836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert-Pixel-Art-Environment-Assets-Pack4-720x480_46
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 96
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15b5033e5b01e4bf0800000000000000
+      internalID: -338314548619486383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert-Pixel-Art-Environment-Assets-Pack4-720x480_47
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 96
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df30805b7d32225b0800000000000000
+      internalID: -5394709994274290691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert-Pixel-Art-Environment-Assets-Pack4-720x480_48
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 96
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22f213672664f7910800000000000000
+      internalID: 1837264561694125858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert-Pixel-Art-Environment-Assets-Pack4-720x480_49
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 96
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f55375d13c11b690800000000000000
+      internalID: -7588252896782494219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert-Pixel-Art-Environment-Assets-Pack4-720x480_50
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 16
+        width: 224
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6e725759f4f10480800000000000000
+      internalID: -8934590833977295249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert-Pixel-Art-Environment-Assets-Pack4-720x480_51
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 16
+        width: 192
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9bc1ad86c1733b10800000000000000
+      internalID: 1960035360429951899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert-Pixel-Art-Environment-Assets-Pack4-720x480_52
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 16
+        width: 202
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35f7db020af1fb010800000000000000
+      internalID: 1206717997763100499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert-Pixel-Art-Environment-Assets-Pack4-720x480_53
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 241
+        width: 35
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5da7bdb0bc0a2b80800000000000000
+      internalID: -8418902600179012258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert-Pixel-Art-Environment-Assets-Pack4-720x480_54
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 244
+        width: 45
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24fab71d24dd69340800000000000000
+      internalID: 4870323326099894082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert-Pixel-Art-Environment-Assets-Pack4-720x480_55
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 246
+        width: 67
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45df6eb26b7ecfaf0800000000000000
+      internalID: -361159100489859756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert-Pixel-Art-Environment-Assets-Pack4-720x480_56
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 161
+        width: 63
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b91a277ff75caf920800000000000000
+      internalID: 3024947253135712667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert-Pixel-Art-Environment-Assets-Pack4-720x480_57
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 160
+        width: 61
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15047db1a6b0a0860800000000000000
+      internalID: 7496817080073142353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert-Pixel-Art-Environment-Assets-Pack4-720x480_58
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 162
+        width: 58
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d013d1aca0348100800000000000000
+      internalID: 109265808971206867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert-Pixel-Art-Environment-Assets-Pack4-720x480_59
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 159
+        width: 51
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd082a09642b003f0800000000000000
+      internalID: -936552706349039395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert-Pixel-Art-Environment-Assets-Pack4-720x480_60
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 391
+        width: 45
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b41b48ae0dd860330800000000000000
+      internalID: 3676782074221867339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert-Pixel-Art-Environment-Assets-Pack4-720x480_61
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 243
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 995ea67fa956cbee0800000000000000
+      internalID: -1244007680810752615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert-Pixel-Art-Environment-Assets-Pack4-720x480_62
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 158
+        width: 69
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 131df258daa5fea50800000000000000
+      internalID: 6552555684157706545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/physics machine.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 0
+    path: Assets/Scenes/star wars platformer.unity
+    guid: 3e5d7eb925335415fbc5091946e8c220
+  - enabled: 0
+    path: Assets/level end.unity
+    guid: fc4918f9d316f48a290af2707ce60321
+  - enabled: 1
+    path: Assets/Scenes/mandalorian civil war.unity
+    guid: c52db4403217748eeb5c48bf00694bfb
+  m_configObjects: {}
