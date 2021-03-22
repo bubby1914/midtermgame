@@ -21,7 +21,7 @@ public class patrol : MonoBehaviour
         if(timer <= 0)
         {
             timer = 1.0f;
-            transform.Rotate(0, 180, 0);
+           //transform.Rotate(0, 180, 0);
         }
 
         transform.Translate(-1 * speed * Time.deltaTime, 0, 0);
@@ -32,6 +32,9 @@ public class patrol : MonoBehaviour
         if(collision.tag == "projectile")
         {
             this.gameObject.SetActive(false);
+        }else if(collision.tag == "wall")
+        {
+            transform.Rotate(0, 180, 0);
         }
     }
 }

@@ -26,18 +26,23 @@ public class playerBehavior : MonoBehaviour
 
     public float yVel;
 
+    public bool movelock;
+
+
     // Start is called before the first frame update
     void Start()
     {
         myBody = gameObject.GetComponent<Rigidbody2D>();
         myCollider = gameObject.GetComponent<BoxCollider2D>();
-        myRenderer = gameObject.GetComponent<SpriteRenderer>();  
+        myRenderer = gameObject.GetComponent<SpriteRenderer>();
+
+        movelock = false;
     }
 
     // Update is called once per frame
     void Update()
     {
-    
+
     }
 
     void FixedUpdate()
@@ -49,23 +54,44 @@ public class playerBehavior : MonoBehaviour
         */
 
         yVel = myBody.velocity.y;
-        CheckKeys();
-        HandleMovement();
-    }
 
-    void CheckKeys(){
-        if(Input.GetKey(KeyCode.D)){
+        if (movelock && Input.GetKeyDown(KeyCode.Q))
+        {
+           movelock = false;
+        }
+
+        CheckKeys();
+
+        if (!movelock)
+        {
+
+        }
+
+        HandleMovement();
+
+       
+    }
+    void CheckKeys()
+    {
+        if (Input.GetKey(KeyCode.D))
+        {
             moveDir = 1;
             faceRight = true;
             myRenderer.flipX = false;
-        } else if(Input.GetKey(KeyCode.A)){
+        }
+        else if (Input.GetKey(KeyCode.A))
+        {
             moveDir = -1;
             faceRight = false;
             myRenderer.flipX = true;
-        } else{
+        }
+        else
+        {
             moveDir = 0;
         }
-        if (Input.GetKey(KeyCode.W) && onFloor){
+
+        if (Input.GetKey(KeyCode.W) && onFloor)
+        {
             myRenderer.sprite = jumpSprite;
             myBody.velocity = new Vector2(myBody.velocity.x, jumpHeight);
 
@@ -73,34 +99,37 @@ public class playerBehavior : MonoBehaviour
         }
         //if (Input.GetKeyDown(KeyCode.Space))
         //{
-            //Instantiate(fireball, this.transform.position, this.transform.rotation);
+        //Instantiate(fireball, this.transform.position, this.transform.rotation);
         //}
     }
 
-    void HandleMovement(){
+    void HandleMovement()
+    {
         myBody.velocity = new Vector2(moveDir * speed, myBody.velocity.y);
     }
 
-     void OnCollisionEnter2D(Collision2D collisionInfo)
+    void OnCollisionEnter2D(Collision2D collisionInfo)
     {
-       if(collisionInfo.gameObject.tag == "floor"){
+        if (collisionInfo.gameObject.tag == "floor")
+        {
             myRenderer.sprite = walkSprite;
             onFloor = true;
         }
     }
 
-    private void OnTriggerStay2D(Collider2D other)
+    void OnTriggerStay2D(Collider2D other)
     {
-        if(other.tag == "door")
+        if (other.tag == "door")
         {
-            if(Input.GetKey(KeyCode.E))
+            if (Input.GetKey(KeyCode.E))
             {
                 other.gameObject.SetActive(false);
             }
         }
     }
-    private void OnTriggerEnter2D(Collider2D collision)
+    void OnTriggerEnter2D(Collider2D collision)
     {
+
         if (collision.tag == "enemy")
         {
             this.transform.position = respawn.transform.position;

@@ -6,6 +6,8 @@ public class projectile : MonoBehaviour
 {
     public bool aim;
     GameObject player;
+
+
     public float speed;
     // Start is called before the first frame update
     void Start()
