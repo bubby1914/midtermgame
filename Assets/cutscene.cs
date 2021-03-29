@@ -21,7 +21,7 @@ public class cutscene : MonoBehaviour
         if (collision.tag == "Player")
         {
             collision.gameObject.GetComponent<playerBehavior>().movelock = true;
-            this.gameObject.SetActive(false);
+            gameObject.SetActive(false);
         }
     }
 

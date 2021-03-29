@@ -17,4 +17,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/mandalorian civil war.unity
     guid: c52db4403217748eeb5c48bf00694bfb
+  - enabled: 1
+    path: Assets/Scenes/level end2.unity
+    guid: 7731e802478e046e393809c3145c22fa
   m_configObjects: {}

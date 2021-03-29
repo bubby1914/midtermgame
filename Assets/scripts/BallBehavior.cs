@@ -29,7 +29,7 @@ public class BallBehavior : MonoBehaviour
         }
     }
 
-    void OnCollisionEnter2D(Collision2D other) {
+    void OnCollisionStay2D(Collision2D other) {
         if(other.gameObject.name == "floor"){
             myRenderer.color = floorColor;
             Debug.Log("Hit floor");

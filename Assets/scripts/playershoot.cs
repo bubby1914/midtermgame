@@ -11,7 +11,7 @@ public class playershoot : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        
+
     }
 
     // Update is called once per frame
@@ -34,6 +34,14 @@ public class playershoot : MonoBehaviour
                 newBeam.transform.localPosition = new Vector3(-1.6f, 0.3f);
             }
             newBeam.GetComponent<Rigidbody2D>().velocity = new Vector3(dir * shootSpeed, newBeam.transform.localPosition.y);
+        }
+    }
+    void OnTriggerEnter2D(Collider2D collision)
+    {
+        if (collision.tag == "wall")
+        {
+            Destroy(gameObject);
+
         }
     }
 }

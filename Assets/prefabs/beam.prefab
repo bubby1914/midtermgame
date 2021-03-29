@@ -13,7 +13,6 @@ GameObject:
   - component: {fileID: 3665021754477851449}
   - component: {fileID: 3384745961607570074}
   - component: {fileID: 912117878751929911}
-  - component: {fileID: -12739827239798345}
   m_Layer: 0
   m_Name: beam
   m_TagString: projectile
@@ -133,17 +132,5 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 76820fef09404489a894a80f9dd755ff, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!114 &-12739827239798345
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 5457567833436928968}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ccf72093aa5554e34ae95e114e2ad950, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 

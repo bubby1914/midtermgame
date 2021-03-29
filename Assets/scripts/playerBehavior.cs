@@ -27,6 +27,7 @@ public class playerBehavior : MonoBehaviour
     public float yVel;
 
     public bool movelock;
+    public GameObject wall;
 
 
     // Start is called before the first frame update
@@ -47,25 +48,22 @@ public class playerBehavior : MonoBehaviour
 
     void FixedUpdate()
     {
-        /*
+
         if(onFloor && myBody.velocity.y > 0){
             onFloor = false;
         }
-        */
+
 
         yVel = myBody.velocity.y;
 
-        if (movelock && Input.GetKeyDown(KeyCode.Q))
+        if (movelock & (Input.GetKeyDown(KeyCode.Q) || Input.GetKeyDown(KeyCode.R) || Input.GetKeyDown(KeyCode.T)))
         {
            movelock = false;
+//           wall.SetActive(true);
         }
 
         CheckKeys();
-
-        if (!movelock)
-        {
-
-        }
+       
 
         HandleMovement();
 
@@ -73,20 +71,31 @@ public class playerBehavior : MonoBehaviour
     }
     void CheckKeys()
     {
-        if (Input.GetKey(KeyCode.D))
+        if (!movelock)
         {
-            moveDir = 1;
-            faceRight = true;
-            myRenderer.flipX = false;
-        }
-        else if (Input.GetKey(KeyCode.A))
-        {
-            moveDir = -1;
-            faceRight = false;
-            myRenderer.flipX = true;
+            //DO NORMAL MOVEMENT
+            if (Input.GetKey(KeyCode.D))
+            {
+                moveDir = 1;
+                faceRight = true;
+                myRenderer.flipX = false;
+            }
+            else if (Input.GetKey(KeyCode.A))
+            {
+                moveDir = -1;
+                faceRight = false;
+                myRenderer.flipX = true;
+            }
+            else
+            {
+                moveDir = 0;
+            }
         }
         else
         {
+            //IGNORE A AND D KEYS, SET MOVEMENT TO ZERO
+            faceRight = true;
+            myRenderer.flipX = false;
             moveDir = 0;
         }
 
@@ -139,6 +148,11 @@ public class playerBehavior : MonoBehaviour
         {
             collision.gameObject.SetActive(false);
             SceneManager.LoadScene("level end");
+        }
+
+        if (collision.tag == "level end2")
+        {
+            SceneManager.LoadScene("level end2");
         }
     }
 

@@ -11,6 +11,7 @@ TagManager:
   - projectile
   - level end
   - wall
+  - level end2
   layers:
   - Default
   - TransparentFX

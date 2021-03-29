@@ -31,6 +31,10 @@ public class projectile : MonoBehaviour
         if (collision.tag == "enemy")
         {
             Destroy(gameObject);
+
+        }else if(collision.tag == "wall")
+        {
+            Destroy(gameObject);
         }
     }
 }

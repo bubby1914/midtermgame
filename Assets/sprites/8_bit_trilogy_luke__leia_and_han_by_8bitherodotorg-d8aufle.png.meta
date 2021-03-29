@@ -1,0 +1,380 @@
+fileFormatVersion: 2
+guid: 6ef943277a0d14c06a13fcccd8f7e666
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5723897062777549476
+    second: 8_bit_trilogy_luke__leia_and_han_by_8bitherodotorg-d8aufle_0
+  - first:
+      213: 2949098666490338309
+    second: 8_bit_trilogy_luke__leia_and_han_by_8bitherodotorg-d8aufle_1
+  - first:
+      213: -2818236806814736681
+    second: 8_bit_trilogy_luke__leia_and_han_by_8bitherodotorg-d8aufle_2
+  - first:
+      213: -2049173878568115111
+    second: 8_bit_trilogy_luke__leia_and_han_by_8bitherodotorg-d8aufle_3
+  - first:
+      213: 817857797456507736
+    second: 8_bit_trilogy_luke__leia_and_han_by_8bitherodotorg-d8aufle_4
+  - first:
+      213: -799268923188197681
+    second: 8_bit_trilogy_luke__leia_and_han_by_8bitherodotorg-d8aufle_5
+  - first:
+      213: -6763784034766611902
+    second: 8_bit_trilogy_luke__leia_and_han_by_8bitherodotorg-d8aufle_6
+  - first:
+      213: -1690072871734578305
+    second: 8_bit_trilogy_luke__leia_and_han_by_8bitherodotorg-d8aufle_7
+  - first:
+      213: -6588950592903042769
+    second: 8_bit_trilogy_luke__leia_and_han_by_8bitherodotorg-d8aufle_8
+  - first:
+      213: 2080892823137341190
+    second: 8_bit_trilogy_luke__leia_and_han_by_8bitherodotorg-d8aufle_9
+  - first:
+      213: 7748176995400751659
+    second: 8_bit_trilogy_luke__leia_and_han_by_8bitherodotorg-d8aufle_10
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 8_bit_trilogy_luke__leia_and_han_by_8bitherodotorg-d8aufle_0
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 630
+        width: 244
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a2f1c55d0e5f6f40800000000000000
+      internalID: 5723897062777549476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_bit_trilogy_luke__leia_and_han_by_8bitherodotorg-d8aufle_1
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 630
+        width: 188
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50c1cb7bc9d4de820800000000000000
+      internalID: 2949098666490338309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_bit_trilogy_luke__leia_and_han_by_8bitherodotorg-d8aufle_2
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 630
+        width: 233
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7de50ec4e8c93e8d0800000000000000
+      internalID: -2818236806814736681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_bit_trilogy_luke__leia_and_han_by_8bitherodotorg-d8aufle_3
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 332
+        width: 244
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95420f4e63fdf83e0800000000000000
+      internalID: -2049173878568115111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_bit_trilogy_luke__leia_and_han_by_8bitherodotorg-d8aufle_4
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 324
+        width: 201
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 853bd26655d995b00800000000000000
+      internalID: 817857797456507736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_bit_trilogy_luke__leia_and_han_by_8bitherodotorg-d8aufle_5
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 333
+        width: 233
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc6cb59262d68e4f0800000000000000
+      internalID: -799268923188197681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_bit_trilogy_luke__leia_and_han_by_8bitherodotorg-d8aufle_6
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 302
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24a1746a1463222a0800000000000000
+      internalID: -6763784034766611902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_bit_trilogy_luke__leia_and_han_by_8bitherodotorg-d8aufle_7
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 302
+        width: 244
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f737cb37da7ab88e0800000000000000
+      internalID: -1690072871734578305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_bit_trilogy_luke__leia_and_han_by_8bitherodotorg-d8aufle_8
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 35
+        width: 276
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f292a6378585f84a0800000000000000
+      internalID: -6588950592903042769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_bit_trilogy_luke__leia_and_han_by_8bitherodotorg-d8aufle_9
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 35
+        width: 244
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60fc2c26ff0d0ec10800000000000000
+      internalID: 2080892823137341190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_bit_trilogy_luke__leia_and_han_by_8bitherodotorg-d8aufle_10
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 35
+        width: 231
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2a17bbfced078b60800000000000000
+      internalID: 7748176995400751659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
